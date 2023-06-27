@@ -1,0 +1,119 @@
+-----BEGIN CERTIFICATE-----
+MIIGNzCCBR+gAwIBAgIMYSmc5pwUepocThBTMA0GCSqGSIb3DQEBCwUAMGAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTYwNAYDVQQDEy1H
+bG9iYWxTaWduIERvbWFpbiBWYWxpZGF0aW9uIENBIC0gU0hBMjU2IC0gRzIwHhcN
+MTkwMTE0MDIyNjM0WhcNMjAwMTE1MDIyNjM0WjBiMQswCQYDVQQGEwJQRTEhMB8G
+A1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMTAwLgYDVQQDEydoLXNscC5t
+bmMwMTAubWNjNzE2LnB1Yi4zZ3BwbmV0d29yay5vcmcwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDgIX/24nG1Nn0UysvGs2L+CGPIqKtSIdxFSVx8rQKj
+8VA7ODB3qSApIABqzQkIryIS7EI6ByEYUSAQvhLQjJkfK3ReivyK5yKtraJLVbY+
+fTPOs2BSQvvVbNxZRTOtyt1MkNz/+tF31ckOYLjhLJLk7Wt5qyy30A0YX2+ggqcx
+L+ANWwYVlDQWsEH3Z2GM87LyGp69JnCDxaWabSz6YRFWUidD9GEYnpn0/sxgk4lF
+7ZagBH+QLeqzQY/RIeqDIpGjNBQO/Y6SKLBDvWkvLeDqm1LZw5eBZuQ1CvktoJv9
+AS9ScHL7gXbpqu1CnWiVDgLtRg9qOPscoU9UWpPYF/xLAgMBAAGjggLtMIIC6TAO
+BgNVHQ8BAf8EBAMCBaAwgZQGCCsGAQUFBwEBBIGHMIGEMEcGCCsGAQUFBzAChjto
+dHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2RvbWFpbnZhbHNo
+YTJnMnIxLmNydDA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AyLmdsb2JhbHNpZ24u
+Y29tL2dzZG9tYWludmFsc2hhMmcyMFYGA1UdIARPME0wQQYJKwYBBAGgMgEKMDQw
+MgYIKwYBBQUHAgEWJmh0dHBzOi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRv
+cnkvMAgGBmeBDAECATAJBgNVHRMEAjAAMEMGA1UdHwQ8MDowOKA2oDSGMmh0dHA6
+Ly9jcmwuZ2xvYmFsc2lnbi5jb20vZ3MvZ3Nkb21haW52YWxzaGEyZzIuY3JsMDIG
+A1UdEQQrMCmCJ2gtc2xwLm1uYzAxMC5tY2M3MTYucHViLjNncHBuZXR3b3JrLm9y
+ZzAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFM4z6z5z
+PKIAnBy8OgaWiAx+W6MLMB8GA1UdIwQYMBaAFOpOfNSALeUVgYYmjIJtwJikz5cP
+MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAh3W/51l8+IxDmV+9827/Vo1HVjb/
+SrVgwbTq/16ggw8AAAFoSi6gdQAABAMARzBFAiEAp4AHAsittORrGdj0htfCsJv6
+s1P7bhwKMe4TJ80X7d0CIDW4h+JqommLwgVMHWcMdirchnMVb2im49p/iou2LIPp
+AHUAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFoSi6g/gAABAMA
+RjBEAiAv+7lsa96gvwj7FQ5imw7//CMhunvK7ssJ34mX6x3c6QIgDqqNGDb9GgRf
+TSrBDbEqRusO6KRGhja2lDulK1LdT+kwDQYJKoZIhvcNAQELBQADggEBAJcYEykU
+ZY0pojogDZ3adkuVclbfDPEYetFi+WLJYmGcl8kMrD3t14gJW5DOuml05vNYgNhp
+pMYty9gzurQIfcVTHWq3n56n+XOvrGamp8dEVSYtg0qXug2QQ9hue2O0CgdUGJr7
+L1CNiCKDp6qJoSmtT3ee2yYQF5AVp9SYQ5EVZ/Px5I8/wW3rK4DPFV4S42wNif8H
+nVgSHVv2ZM9ubDMj6dRIKxQdfj/AQUyqFP5v9qqUvRHD0Hs21O+NjAVRd2MgKlm1
+ssue7oGbYZ05171b8LrQIk6sbBgZs2NfRmGO9i5+mIaOU3mG2ir+7hVhEZU1pIGv
+t69zIQ05ZvSzTtI=
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:29:9c:e6:9c:14:7a:9a:1c:4e:10:53
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Domain Validation CA - SHA256 - G2
+        Validity
+            Not Before: Jan 14 02:26:34 2019 GMT
+            Not After : Jan 15 02:26:34 2020 GMT
+        Subject: C=PE, OU=Domain Control Validated, CN=h-slp.mnc010.mcc716.pub.3gppnetwork.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e0:21:7f:f6:e2:71:b5:36:7d:14:ca:cb:c6:b3:
+                    62:fe:08:63:c8:a8:ab:52:21:dc:45:49:5c:7c:ad:
+                    02:a3:f1:50:3b:38:30:77:a9:20:29:20:00:6a:cd:
+                    09:08:af:22:12:ec:42:3a:07:21:18:51:20:10:be:
+                    12:d0:8c:99:1f:2b:74:5e:8a:fc:8a:e7:22:ad:ad:
+                    a2:4b:55:b6:3e:7d:33:ce:b3:60:52:42:fb:d5:6c:
+                    dc:59:45:33:ad:ca:dd:4c:90:dc:ff:fa:d1:77:d5:
+                    c9:0e:60:b8:e1:2c:92:e4:ed:6b:79:ab:2c:b7:d0:
+                    0d:18:5f:6f:a0:82:a7:31:2f:e0:0d:5b:06:15:94:
+                    34:16:b0:41:f7:67:61:8c:f3:b2:f2:1a:9e:bd:26:
+                    70:83:c5:a5:9a:6d:2c:fa:61:11:56:52:27:43:f4:
+                    61:18:9e:99:f4:fe:cc:60:93:89:45:ed:96:a0:04:
+                    7f:90:2d:ea:b3:41:8f:d1:21:ea:83:22:91:a3:34:
+                    14:0e:fd:8e:92:28:b0:43:bd:69:2f:2d:e0:ea:9b:
+                    52:d9:c3:97:81:66:e4:35:0a:f9:2d:a0:9b:fd:01:
+                    2f:52:70:72:fb:81:76:e9:aa:ed:42:9d:68:95:0e:
+                    02:ed:46:0f:6a:38:fb:1c:a1:4f:54:5a:93:d8:17:
+                    fc:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            Authority Information Access: 
+                CA Issuers - URI:http://secure.globalsign.com/cacert/gsdomainvalsha2g2r1.crt
+                OCSP - URI:http://ocsp2.globalsign.com/gsdomainvalsha2g2
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.4146.1.10
+                  CPS: https://www.globalsign.com/repository/
+                Policy: 2.23.140.1.2.1
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.globalsign.com/gs/gsdomainvalsha2g2.crl
+
+            X509v3 Subject Alternative Name: 
+                DNS:h-slp.mnc010.mcc716.pub.3gppnetwork.org
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Key Identifier: 
+                CE:33:EB:3E:73:3C:A2:00:9C:1C:BC:3A:06:96:88:0C:7E:5B:A3:0B
+            X509v3 Authority Key Identifier: 
+                keyid:EA:4E:7C:D4:80:2D:E5:15:81:86:26:8C:82:6D:C0:98:A4:CF:97:0F
+
+            1.3.6.1.4.1.11129.2.4.2: 
+                ......v..u..Y|..C._..n.V.GV6.J.`....^......hJ..u.....G0E.!.........k..........S.n.
+1..'..... 5...j.i...L.g.v*..s.oh.......,...u.......q...#...{G8W.
+.R....d6.......hJ........F0D. /..lk.......b....#!.{............ ....6..._M*..*F....F.6..;.+R.O.
+    Signature Algorithm: sha256WithRSAEncryption
+         97:18:13:29:14:65:8d:29:a2:3a:20:0d:9d:da:76:4b:95:72:
+         56:df:0c:f1:18:7a:d1:62:f9:62:c9:62:61:9c:97:c9:0c:ac:
+         3d:ed:d7:88:09:5b:90:ce:ba:69:74:e6:f3:58:80:d8:69:a4:
+         c6:2d:cb:d8:33:ba:b4:08:7d:c5:53:1d:6a:b7:9f:9e:a7:f9:
+         73:af:ac:66:a6:a7:c7:44:55:26:2d:83:4a:97:ba:0d:90:43:
+         d8:6e:7b:63:b4:0a:07:54:18:9a:fb:2f:50:8d:88:22:83:a7:
+         aa:89:a1:29:ad:4f:77:9e:db:26:10:17:90:15:a7:d4:98:43:
+         91:15:67:f3:f1:e4:8f:3f:c1:6d:eb:2b:80:cf:15:5e:12:e3:
+         6c:0d:89:ff:07:9d:58:12:1d:5b:f6:64:cf:6e:6c:33:23:e9:
+         d4:48:2b:14:1d:7e:3f:c0:41:4c:aa:14:fe:6f:f6:aa:94:bd:
+         11:c3:d0:7b:36:d4:ef:8d:8c:05:51:77:63:20:2a:59:b5:b2:
+         cb:9e:ee:81:9b:61:9d:39:d7:bd:5b:f0:ba:d0:22:4e:ac:6c:
+         18:19:b3:63:5f:46:61:8e:f6:2e:7e:98:86:8e:53:79:86:da:
+         2a:fe:ee:15:61:11:95:35:a4:81:af:b7:af:73:21:0d:39:66:
+         f4:b3:4e:d2
+SHA1 Fingerprint=14:82:A1:05:F9:74:38:36:76:8D:0E:35:00:B4:A2:59:34:B6:F1:E0

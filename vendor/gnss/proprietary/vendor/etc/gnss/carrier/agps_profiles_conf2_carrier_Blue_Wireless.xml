@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mtk_agps_profiles maj_ver="1" min_ver="2">
+  <!-- Refer to agps_profiles_conf2.xml for values not provided in this file.
+       cur_supl_profile is supported but other supl_profile are ignored.
+       auto_profile_enable is not supported.
+  -->
+
+  <cur_supl_profile name="Blue_Wireless"
+      addr="NONE"
+      port="7275"
+      tls="true"
+  />
+
+  <cdma_profile name="CDMA1"
+  />
+
+  <agps_setting
+  />
+
+  <gnss_setting
+  />
+
+  <cp_setting
+    cp_lppe_enable="true"
+    cp_lppe_wlan_enable="true"
+    cp_lppe_srn_enable="true"
+    cp_lppe_sensor_enable="true"
+    cp_lppe_dbh_enable="true"
+  />
+
+  <up_setting
+    up_lppe_enable="true"
+    up_lppe_wlan_enable="true"
+    up_lppe_srn_enable="true"
+    up_lppe_sensor_enable="true"
+    up_lppe_dbh_enable="true"
+  />
+
+</mtk_agps_profiles>

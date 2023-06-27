@@ -1,0 +1,99 @@
+-----BEGIN CERTIFICATE-----
+MIIEYzCCA0ugAwIBAgILBAAAAAABRE7wPiAwDQYJKoZIhvcNAQELBQAwVzELMAkG
+A1UEBhMCQkUxGTAXBgNVBAoTEEdsb2JhbFNpZ24gbnYtc2ExEDAOBgNVBAsTB1Jv
+b3QgQ0ExGzAZBgNVBAMTEkdsb2JhbFNpZ24gUm9vdCBDQTAeFw0xNDAyMjAxMDAw
+MDBaFw0yNDAyMjAxMDAwMDBaMGAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9i
+YWxTaWduIG52LXNhMTYwNAYDVQQDEy1HbG9iYWxTaWduIERvbWFpbiBWYWxpZGF0
+aW9uIENBIC0gU0hBMjU2IC0gRzIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCp3cwOs+IyOd1JIqgTaZOHiOEM7nF9vZCHll1Z8syz0lhXV/lG72wm2DZC
+jn4wsy+aPlN7H262okxFHzzTFZMcie089Ffeyr3sBppqKqAZUn9R0XQ5CJ+r69eG
+ExWXrjbDVGYOWvKgc4Ux47JkFGr/paKOJLu9hVIVonnu8LXuPbj0fYC82ZA1ZbgX
+qa2zmJ+gfn1u+z+tfMIbWTaW2jcyS0tdNQJjjtunz2LuzC7Ujcm9PGqRcqIip3It
+INH6yjfaGJjmFiRxJUvE5XuJUgkC/VkrBG7KB4HUs9ra2+PMgKhWBwZ8lgg3nds4
+tmI0kWIHdAE42HIw4uuQcSZiwFfzAgMBAAGjggElMIIBITAOBgNVHQ8BAf8EBAMC
+AQYwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQU6k581IAt5RWBhiaMgm3A
+mKTPlw8wRwYDVR0gBEAwPjA8BgRVHSAAMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8v
+d3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMDMGA1UdHwQsMCowKKAmoCSG
+Imh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5uZXQvcm9vdC5jcmwwPQYIKwYBBQUHAQEE
+MTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5nbG9iYWxzaWduLmNvbS9yb290
+cjEwHwYDVR0jBBgwFoAUYHtmGkUNl8qJUC99BM00qP/8/UswDQYJKoZIhvcNAQEL
+BQADggEBANdFnqDc4ONhWgt9d4QXLWVagpqNoycqhffJ7+mG/dRHzQFSlsVDvTex
+4bjyqdKKEYRxkRWJ3AKdC8tsM4U0KJ4gsrGX3G0LEME8zV/qXdeYMcU0mVwAYVXE
+GwJbxeOJyLS4bx448lYm6UHvPc2smU9ZSlctS32ux4j71pg79eXw6ImJuYsDy1oj
+H6T9uOr7Lp2uanMJvPzVoLVEgqtEkS5QLlfBQ9iRBIvpES5ftD953x77PzAAi1Pj
+tywdO02L3ORkHQRYM68bVeerDL8wBHTk8w4vMDmNSwSMHnVmZkngvkA0x1xaUZK6
+EjxS1QSCVS1npd+3lXzuP8MIugS+wEY=
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:00:00:00:00:01:44:4e:f0:3e:20
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+        Validity
+            Not Before: Feb 20 10:00:00 2014 GMT
+            Not After : Feb 20 10:00:00 2024 GMT
+        Subject: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Domain Validation CA - SHA256 - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a9:dd:cc:0e:b3:e2:32:39:dd:49:22:a8:13:69:
+                    93:87:88:e1:0c:ee:71:7d:bd:90:87:96:5d:59:f2:
+                    cc:b3:d2:58:57:57:f9:46:ef:6c:26:d8:36:42:8e:
+                    7e:30:b3:2f:9a:3e:53:7b:1f:6e:b6:a2:4c:45:1f:
+                    3c:d3:15:93:1c:89:ed:3c:f4:57:de:ca:bd:ec:06:
+                    9a:6a:2a:a0:19:52:7f:51:d1:74:39:08:9f:ab:eb:
+                    d7:86:13:15:97:ae:36:c3:54:66:0e:5a:f2:a0:73:
+                    85:31:e3:b2:64:14:6a:ff:a5:a2:8e:24:bb:bd:85:
+                    52:15:a2:79:ee:f0:b5:ee:3d:b8:f4:7d:80:bc:d9:
+                    90:35:65:b8:17:a9:ad:b3:98:9f:a0:7e:7d:6e:fb:
+                    3f:ad:7c:c2:1b:59:36:96:da:37:32:4b:4b:5d:35:
+                    02:63:8e:db:a7:cf:62:ee:cc:2e:d4:8d:c9:bd:3c:
+                    6a:91:72:a2:22:a7:72:2d:20:d1:fa:ca:37:da:18:
+                    98:e6:16:24:71:25:4b:c4:e5:7b:89:52:09:02:fd:
+                    59:2b:04:6e:ca:07:81:d4:b3:da:da:db:e3:cc:80:
+                    a8:56:07:06:7c:96:08:37:9d:db:38:b6:62:34:91:
+                    62:07:74:01:38:d8:72:30:e2:eb:90:71:26:62:c0:
+                    57:f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Subject Key Identifier: 
+                EA:4E:7C:D4:80:2D:E5:15:81:86:26:8C:82:6D:C0:98:A4:CF:97:0F
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://www.globalsign.com/repository/
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.globalsign.net/root.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.globalsign.com/rootr1
+
+            X509v3 Authority Key Identifier: 
+                keyid:60:7B:66:1A:45:0D:97:CA:89:50:2F:7D:04:CD:34:A8:FF:FC:FD:4B
+
+    Signature Algorithm: sha256WithRSAEncryption
+         d7:45:9e:a0:dc:e0:e3:61:5a:0b:7d:77:84:17:2d:65:5a:82:
+         9a:8d:a3:27:2a:85:f7:c9:ef:e9:86:fd:d4:47:cd:01:52:96:
+         c5:43:bd:37:b1:e1:b8:f2:a9:d2:8a:11:84:71:91:15:89:dc:
+         02:9d:0b:cb:6c:33:85:34:28:9e:20:b2:b1:97:dc:6d:0b:10:
+         c1:3c:cd:5f:ea:5d:d7:98:31:c5:34:99:5c:00:61:55:c4:1b:
+         02:5b:c5:e3:89:c8:b4:b8:6f:1e:38:f2:56:26:e9:41:ef:3d:
+         cd:ac:99:4f:59:4a:57:2d:4b:7d:ae:c7:88:fb:d6:98:3b:f5:
+         e5:f0:e8:89:89:b9:8b:03:cb:5a:23:1f:a4:fd:b8:ea:fb:2e:
+         9d:ae:6a:73:09:bc:fc:d5:a0:b5:44:82:ab:44:91:2e:50:2e:
+         57:c1:43:d8:91:04:8b:e9:11:2e:5f:b4:3f:79:df:1e:fb:3f:
+         30:00:8b:53:e3:b7:2c:1d:3b:4d:8b:dc:e4:64:1d:04:58:33:
+         af:1b:55:e7:ab:0c:bf:30:04:74:e4:f3:0e:2f:30:39:8d:4b:
+         04:8c:1e:75:66:66:49:e0:be:40:34:c7:5c:5a:51:92:ba:12:
+         3c:52:d5:04:82:55:2d:67:a5:df:b7:95:7c:ee:3f:c3:08:ba:
+         04:be:c0:46
+SHA1 Fingerprint=73:6A:4D:C6:79:D6:82:DA:32:15:63:64:7C:60:F6:99:F0:DF:C2:68
